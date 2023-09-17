@@ -1,42 +1,41 @@
-# twa-template
-> Starter template for a new TWA interacting with the TON blockchain 
+# TON-DRIVE
+> Ton storage based dapp for private forwarding, storing large files inside telegram.
 
-# Overview
-The project is highly-opinionated, and there are many other alternate routes it could have taken. Some examples:
-- Supports Ton Connect 2 wallets
-- Uses vite with react (alternative to create-react-app)
-- Uses the `ton` npm package
 
-# Prerequesities
-* Node.js v16 (other versions may work, needs more testing)
-* A TON Connect compatible wallet (e.g. [Tonkeeper](https://tonkeeper.com/))
+# Introduction
+Hey there! This is the TON Drive for HACK-TON-BERFEST 2023! We made this Telegram app to get around Telegram's 2GB file size limit. It uses TON Storage to help store files safely and can handle a lot of data. Glad you're here and can't wait to see what you bring!
+# Description
+`TON Drive` is a web app inside Telegram. It uses TON Storage to let users quickly and safely upload, keep, and share big files. The app makes sure files stay in their original quality without making them smaller and keeps them organized. Plus, it makes sure files are locked up securely.
 
-# What does this repo contain?
-* A react-based TWA-ready app, interacting with TON
-* Github actions set to deploy app to github pages
-* A script to connect a telegram bot to the deployed app
+# Main Features
+* Intuitive file uploading and transfer interface.
+* Getting around Telegram's 2GB file limit.
+* Reliable file storage using TON Storage.
+* Modern file encryption provides the highest level of data security.
+* Generation of unique file access links.
+* No compression: files remain in their original quality.
+* User-friendly and organized file storage system.
 
-# How to use
-1. Create a template from this repo with the "Use this template" button
-   1. Choose a name for your repo
-   2. Important! mark "Include all branches", otherwise github pages deployment will not work.
-   ![image](https://user-images.githubusercontent.com/5641469/191731317-14e742fd-accb-47d4-a794-fad01148a377.png) 
+# How to Contribute ([video-tutorial]("http://"))
+0. Registration: Connect your [wallet]("https://tonkeeper.com/") and fill your GitHub and Telegram accounts in [ton society]()
+1. Fork & Clone: Fork this repository and clone it to your local machine.
+2. Pick an Issue: Browse open issues, choose one that interests you, and commit to it.
+3. Code Away: Address the issue in your local environment.
+4. Pull Request: Submit a PR for review. Please ensure your PR title is clear and your description is detailed.
+5. Contact the team: notify the [team]() of your PR to check the code
 
-2. Clone this repo and run `yarn`
+# Join the Community
 
-3. Create a new bot with [botfather](https://t.me/botfather)
-   1. Type `/newbot`
-   2. Choose a name for your bot, e.g. `My Ton TWA`
-   3. Choose a username for your bot, e.g. `my_ton_twa_482765_bot`
-   4. Take note of the access token, e.g. `5712441624:AAHmiHvwrrju1F3h29rlVOZLRLnv-B8ZZZ`
-   5. Run `yarn configbot` to link your bot to the webapp
+Connect with fellow contributors on our [Telegram]("https://t.me/hack_ton_berfest_2023"). Engage in discussions, seek help, or share your progress!
+
+Connect with our [team]("") in Telegram
 
 # Development
 1. Run `npm run dev` and edit the code as needed
-2. On push to the `main` branch, the app will be automatically deployed via github actions.
 
-# Roadmap
-- [ ] Jetton transfer support
+[//]: # (2. On push to the `main` branch, the app will be automatically deployed via github actions.)
 
+# Conclusion
+Can't wait to see your cool updates to TON Drive during HACK-TON-BERFEST. Have fun coding!
 # License
 MIT
