@@ -16,13 +16,16 @@ Hey there! This is the TON Drive for HACK-TON-BERFEST 2023! We made this Telegra
 * No compression: files remain in their original quality.
 * User-friendly and organized file storage system.
 
-# How to Contribute ([video-tutorial]("http://"))
+# How to Contribute
 0. Registration: Connect your [wallet]("https://tonkeeper.com/") and fill your GitHub and Telegram accounts in [ton society]()
 1. Fork & Clone: Fork this repository and clone it to your local machine.
 2. Pick an Issue: Browse open issues, choose one that interests you, and commit to it.
 3. Code Away: Address the issue in your local environment.
 4. Pull Request: Submit a PR for review. Please ensure your PR title is clear and your description is detailed.
 5. Contact the team: notify the [team]() of your PR to check the code
+
+
+>Video tutorial: If you prefer visual learning, check out [this video tutorial]() on contributing!
 
 # Join the Community
 
