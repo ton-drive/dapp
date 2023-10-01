@@ -17,24 +17,21 @@ Hey there! This is the TON Drive for HACK-TON-BERFEST 2023! We made this Telegra
 * User-friendly and organized file storage system.
 
 # How to Contribute
-0. Registration: Connect your [wallet]("https://tonkeeper.com/") and fill your GitHub and Telegram accounts in [ton society]()
+
 1. Fork & Clone: Fork this repository and clone it to your local machine.
 2. Pick an Issue: Browse open issues, choose one that interests you, and commit to it.
 3. Code Away: Address the issue in your local environment.
 4. Pull Request: Submit a PR for review. Please ensure your PR title is clear and your description is detailed.
-5. Contact the team: notify the [team]() of your PR to check the code
+5. Contact the team: notify the [team](https://t.me/tondrive1) of your PR to check the code
 
 
->Video tutorial: If you prefer visual learning, check out [this video tutorial]() on contributing!
+>Video tutorial: If you prefer visual learning, check out this video tutorial [EN](https://www.youtube.com/channel/UCaiBZhZWqYeeQMUeCev18ng), [RU](https://www.youtube.com/playlist?list=PLOIvUFGfwP93tZI_WnaLyJsZlskU4ao92) on contributing!
 
 # Join the Community
 
 Connect with fellow contributors on our [Telegram]("https://t.me/hack_ton_berfest_2023"). Engage in discussions, seek help, or share your progress!
 
-Connect with our [team]("") in Telegram
-
-# Development
-1. Run `npm run dev` and edit the code as needed
+Connect with our [team]("https://t.me/tondrive1") in Telegram
 
 [//]: # (2. On push to the `main` branch, the app will be automatically deployed via github actions.)
 
